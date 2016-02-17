@@ -5,7 +5,7 @@ Auto Inject Dll , it have two method to inject your custom dll. help you to test
 
 /* 注入方式 1、SetWindowsHooksEx注入  
 \*          2、CreateRemoteThread注入  
-\*          3、APCCallBacktoInject注入
+\*          3、APCCallBacktoInject注入  
 \* 形式 AutoInjectDLL [method] [DllName] [进程ID]  
  */  
 
